@@ -1,0 +1,50 @@
+h1 {
+  font-family: 'Cookie', cursive;
+  color: white
+
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: purple;
+  color: white
+}
+
+.selected {
+  color: blue;
+}
+
+.tabs {
+  text-align: center;
+  border: 1px solid white;
+  background: lightblue
+}
+
+.tablist h1 {
+  margin: 10px;
+  margin-bottom: 0px;
+}
+
+header {
+  justify-content: center;
+}
+.tablist {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  padding: 0px
+}
+
+.headers {
+  border-bottom: 1px solid white;
+}
+
+.weather {
+  background-color: white;
+  color: blue;
+  padding: 5px
+}
